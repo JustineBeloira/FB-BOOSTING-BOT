@@ -1,9 +1,9 @@
 {
    "CONFIG": {
       "BOT_INFO": {
-         "PREFIX": ".",
+         "PREFIX": "/",
          "ADMIN_ID": [
-         "100089164803882"
+         "100090460245018"
          ],
          "EMAIL": "EMAIL/PHONE NUMBER/ID",
          "PASSWORD": "PASSWORD"
